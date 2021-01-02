@@ -9,7 +9,9 @@ gibbon-clip-lexer.o: gibbon-clip-lexer.c /usr/include/stdc-predef.h \
  /usr/lib/gcc/x86_64-linux-gnu/8/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/8/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
@@ -642,7 +644,11 @@ gibbon-clip-lexer.o: gibbon-clip-lexer.c /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
+
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/time64.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 

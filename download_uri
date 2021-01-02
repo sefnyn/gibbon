@@ -2,11 +2,11 @@
 
 #set -x
 
-lwp_request="/usr/bin/lwp-request"
+lwp_request="/bin/lwp-request"
 lynx=""
 w3m=""
-links=""
-wget="/usr/bin/wget"
+links="/bin/links"
+wget="/bin/wget"
 
 uri=$1
 if test "x$uri" = "x"; then

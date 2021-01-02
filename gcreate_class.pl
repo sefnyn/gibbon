@@ -1,4 +1,4 @@
-#! /usr/bin/perl -w
+#! /bin/perl -w
 # This file is part of Gibbon.
 # Gibbon is a Gtk+ frontend for the First Internet Backgammon Server FIBS.
 # Copyright (C) 2009-2012 Guido Flohr, http://guido-flohr.net/.
